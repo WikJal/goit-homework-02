@@ -1,10 +1,19 @@
-.Title-Header1 {
+.Title {
   font-weight: bold;
   font-size: 56px;
   letter-spacing: 2%;
   line-height: 60px;
 }
-.Logo {
+header1{
+
+}
+header2{
+
+}
+header3{
+
+}
+.logo {
   font-weight: 700;
   font-size: 18px;
   letter-spacing: 0, 03em;
@@ -13,7 +22,7 @@
   font-family: "Raleway", sans-serif;
   text-transform: uppercase;
 }
-.header3 {
+.logo-style {
   font-family: "Raleway", sans-serif;
   font-weight: Medium;
   font-size: 18px;
