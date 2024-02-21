@@ -43,6 +43,9 @@
   letter-spacing: 0.03em;
   color: #2e2f42;
 }
+.logo-style-dwa {
+  color: #f4f4fd;
+}
 body {
   font-family: "Roboto", sans-serif;
   font-weight: Regular;
@@ -101,11 +104,9 @@ body {
 .sekcja-trzy {
   background-color: #f4f4fd;
 }
-.lis{
-    background-color: #ffffff;
-
+.lis {
+  background-color: #ffffff;
 }
-.footer{
-    background-color: #2e2f42;
-    
+.footer {
+  background-color: #2e2f42;
 }
