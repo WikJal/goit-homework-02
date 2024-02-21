@@ -1,10 +1,9 @@
-.Title {
-  font-weight: bold;
+.header {
   font-size: 56px;
-  letter-spacing: 2%;
-  line-height: 60px;
-}
-header1 {
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
 }
 header2 {
 }
@@ -38,8 +37,8 @@ body {
 .address {
   font-style: normal;
 }
-.sekcja{
-    background-color: #2e2f42;
+.sekcja {
+  background-color: #2e2f42;
 }
 button {
   font-weight: Medium;
