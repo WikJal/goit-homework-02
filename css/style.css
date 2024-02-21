@@ -1,18 +1,22 @@
-Title-Header1 {
+.Title-Header1 {
   font-weight: bold;
   font-size: 56px;
   letter-spacing: 2%;
   line-height: 60px;
 }
-header2 {
+.header2 {
   font-weight: Bold;
-  font-size: 36px;
+  font-size: 18px;
   letter-spacing: 2%;
+  color: #4d5ae5;
+  line-height: 21px;
 }
-header3 {
+.header3 {
+  font-family: "Raleway", sans-serif;
   font-weight: Medium;
-  font-size: 20px;
+  font-size: 18px;
   letter-spacing: 2%;
+  color: #2e2f42;
 }
 body {
   font-family: "Roboto", sans-serif;
@@ -42,11 +46,10 @@ button {
   letter-spacing: 4%;
   text-align: left;
 }
-link {
-  color: 434455;
+.link {
+  color: #2e2f42;
   font-weight: regular;
   font-size: 12px;
   line-height: 16px;
   letter-spacing: 4%;
-  text-decoration: underline;
 }
