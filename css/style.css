@@ -4,18 +4,20 @@
   letter-spacing: 2%;
   line-height: 60px;
 }
-.header2 {
-  font-weight: Bold;
+.Logo {
+  font-weight: 700;
   font-size: 18px;
-  letter-spacing: 2%;
+  letter-spacing: 0, 03em;
   color: #4d5ae5;
-  line-height: 21px;
+  line-height: 1.17;
+  font-family: "Raleway", sans-serif;
+  text-transform: uppercase;
 }
 .header3 {
   font-family: "Raleway", sans-serif;
   font-weight: Medium;
   font-size: 18px;
-  letter-spacing: 2%;
+  letter-spacing: 0.03em;
   color: #2e2f42;
 }
 body {
