@@ -39,9 +39,10 @@ body {
 }
 .sekcja {
   background-color: #2e2f42;
+  font-family: "Roboto", sans-serif;
 }
 .button {
-    background-color: #4d5ae5;
+  background-color: #4d5ae5;
 }
 .link {
   color: #2e2f42;
