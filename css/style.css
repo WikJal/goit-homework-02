@@ -58,8 +58,9 @@ button {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.link2 {
+.link-addres {
   color: #434455;
+  letter-spacing: 0.02em;
 }
 .link:hover {
   color: #404bbf;
@@ -67,9 +68,9 @@ button {
 .link:focus {
   color: #404bbf;
 }
-.link2:hover {
+.link-addres:hover {
   color: #404bbf;
 }
-.link2:focus {
+.link-addres:focus {
   color: #404bbf;
 }
