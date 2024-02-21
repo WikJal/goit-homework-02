@@ -35,11 +35,8 @@ body {
   background-color: #ffffff;
   color: #434455;
 }
-Small {
-  font-weight: Regular;
-  font-size: 12px;
-  line-height: 14;
-  letter-spacing: 4%;
+.address {
+  font-style: normal;
 }
 Medium {
   font-weight: Medium;
@@ -61,6 +58,18 @@ button {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.link:hover{
-    color: #404bbf;
+.link2 {
+  color: #434455;
+}
+.link:hover {
+  color: #404bbf;
+}
+.link:focus {
+  color: #404bbf;
+}
+.link2:hover {
+  color: #404bbf;
+}
+.link2:focus {
+  color: #404bbf;
 }
