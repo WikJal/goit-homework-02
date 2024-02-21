@@ -1,20 +1,20 @@
-.Title-Header1 {
+Title-Header1 {
   font-weight: bold;
   font-size: 56px;
   letter-spacing: 2%;
   line-height: 60px;
 }
-.header2 {
+header2 {
   font-weight: Bold;
   font-size: 36px;
   letter-spacing: 2%;
 }
-.header3 {
+header3 {
   font-weight: Medium;
   font-size: 20px;
   letter-spacing: 2%;
 }
-.body {
+body {
   font-family: "Roboto", sans-serif;
   font-weight: Regular;
   font-size: 16px;
@@ -29,20 +29,20 @@
   line-height: 14px;
   letter-spacing: 4%;
 }
-.Medium {
+Medium {
   font-weight: Medium;
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 2%;
 }
-.button {
+button {
   font-weight: Medium;
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 4%;
   text-align: left;
 }
-.link {
+link {
   color: 434455;
   font-weight: regular;
   font-size: 12px;
