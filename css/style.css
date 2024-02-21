@@ -19,7 +19,13 @@
   color: #434455;
 }
 
-header3 {
+.header-dwa {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
 }
 .logo {
   font-weight: 700;
@@ -91,4 +97,7 @@ body {
 }
 .link-addres:focus {
   color: #404bbf;
+}
+.sekcja-trzy {
+  background-color: #f4f4fd;
 }
